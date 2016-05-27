@@ -120,7 +120,7 @@ font-size: 20px;
 color:#fff;
 margin: 4px;
 }
-/* Header 
+/* Header
 ----------------------------------------------*/
 .header {
     position: fixed;
@@ -164,7 +164,7 @@ color: #FFFFFF;
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
 color: #FFFFFF;
 background: none;
-}	
+}
 .navbar-toggle {
 }
 /*.carousel-inner*/
@@ -361,7 +361,7 @@ background: none;
         color: #5A5A5A;
     }
 
-.heading { 
+.heading {
     padding: 3px 10px;
     padding-bottom: 15px;
     margin-bottom: 30px;
@@ -432,7 +432,7 @@ margin: 0px;
 /*parlex*/
 .bg-parlex {
 padding-top: 0px;
-background-image: url('../images/banner.jpg');
+background-image: url('../images/IMG_0310.PNG');
 background-size: cover;
 background-repeat: no-repeat;
 background-attachment: fixed;
@@ -502,7 +502,7 @@ background-color: #CC4646;
 #timeline .timeline-badge span.timeline-balloon-date-month {
   font-size: 13px;
 position: relative;
-top: -6px;  
+top: -6px;
 display: inherit;
 }
 #timeline .timeline-badge.timeline-filter-movement {
@@ -713,7 +713,7 @@ footer {
         float: right;
     }
 
-    .navbar-inverse .navbar-nav > li > a {  
+    .navbar-inverse .navbar-nav > li > a {
         padding: 5px 12px !important;
         border-radius: 5px;
         margin: 19px 0px;
@@ -748,7 +748,7 @@ footer {
     }
 
 
-    .navbar-inverse .navbar-nav > li > a { 
+    .navbar-inverse .navbar-nav > li > a {
         font-size: 1em;
         padding: 5px 7px !important;
         border-radius: 5px;
@@ -757,7 +757,7 @@ footer {
 	.skilltitle {
  	text-align: left;
 	}
-	#timeline { 
+	#timeline {
 	margin:0px 12px;
 	}
 }
@@ -815,7 +815,7 @@ footer {
         margin: 0 0 20px;
     }
 
- 
+
 }
 
 @media (max-width: 320px) {
@@ -855,4 +855,3 @@ footer {
         margin: 7px;
     }
 }
-
